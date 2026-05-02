@@ -1,5 +1,7 @@
 # FATExFI SDK
 
+> Personal archive fork by Sage / 0SxD. See ARCHIVE_NOTICE.md for prior-associations disclaimer and current research continuity.
+
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 [![Actions Status](https://github.com/FATEx-DAO/fatex-dex-sdk/workflows/CI/badge.svg)](https://github.com/FATEx-DAO/fatex-dex-sdk)
 [![npm version](https://img.shields.io/npm/v/@fatex-dao/sdk/latest.svg)](https://www.npmjs.com/package/@fatex-dao/sdk/v/latest)
